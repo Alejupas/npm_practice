@@ -28,3 +28,12 @@ console.log(add(111, 50000));
 //nodemon to stop it =  ctrl + c
 
 //gauti is vartotojo sakini su prompt ir paversti ji visais case'ais ir atspausdinti concoleje
+const {
+  makeCamel,
+  PascalCase,
+  toSnakeCase,
+  kebabCase,
+} = require("../Git_practice/node_js uzduotis/js/functions");
+
+let sakinys =
+  "siandien buvo grazi diena ir silta apie trisdesimt penki laipsniai";
