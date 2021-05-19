@@ -1,0 +1,4 @@
+# neitraukti direktoriju i faila
+node_modules
+# nenorim passwordo pushint i git is pass.js
+pass.js
