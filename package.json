@@ -14,6 +14,7 @@
   "author": "M.K.",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "prompt": "^1.1.0"
   }
 }
