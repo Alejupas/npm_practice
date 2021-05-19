@@ -3,7 +3,7 @@ const _ = require("lodash");
 const { cloneDeep } = require("lodash");
 
 // console.log("app.js");
-// console.log(add(10, 10));
+console.log(add(10, 10));
 
 //pradeti organizuoti savo koda su NPM
 //sukuria automatiskai package.json
@@ -19,3 +19,8 @@ const { cloneDeep } = require("lodash");
 
 // git clone ir repositorijos https paimam, ir kaime naujam kompe parpusta i vs projektas , tada is package json, suinstaliuojam dependencies su npm install
 //parsisiuntus zipa, inicijuojam pirma karta git init
+
+//idiegti nodemon kaip dev dependency - funkcionalumas naudojamas tik aplikacijos kurimo metu
+// installiuojam su  --save-dev veliavele
+// npm install -g nodemon (globaliai install)
+// npm install nodemon --save-dev (lokaliai install)

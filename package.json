@@ -16,5 +16,8 @@
   "dependencies": {
     "lodash": "^4.17.21",
     "prompt": "^1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
   }
 }
