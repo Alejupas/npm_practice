@@ -1,4 +1,5 @@
 const { add } = require("./functions");
+const _ = require("lodash");
 console.log("app.js");
 
 console.log(add(10, 10));
