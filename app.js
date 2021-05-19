@@ -16,3 +16,5 @@ const { cloneDeep } = require("lodash");
 
 //node_modules direktorijoje yra visos projekto priklausomybes
 //sitas folderis neturetu buti pridedamas su git, so .gitignore - faile nurodom failus ir direktorijas kuriu nenorim pushint i git
+
+// git clone ir repositorijos https paimam, ir kaime naujam kompe parpusta i vs projektas
