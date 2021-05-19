@@ -3,7 +3,7 @@ const _ = require("lodash");
 const { cloneDeep } = require("lodash");
 
 // console.log("app.js");
-console.log(add(10, 10));
+console.log(add(111, 50000));
 
 //pradeti organizuoti savo koda su NPM
 //sukuria automatiskai package.json
@@ -24,3 +24,7 @@ console.log(add(10, 10));
 // installiuojam su  --save-dev veliavele
 // npm install -g nodemon (globaliai install)
 // npm install nodemon --save-dev (lokaliai install)
+
+//nodemon to stop it =  ctrl + c
+
+//gauti is vartotojo sakini su prompt ir paversti ji visais case'ais ir atspausdinti concoleje
